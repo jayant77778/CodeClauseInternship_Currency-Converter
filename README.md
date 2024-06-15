@@ -4,7 +4,7 @@ This currency converter is a simple Python script that allows users to convert a
 
 ## Usage
 
-1. Clone or download the repository to your local machine.
+1. Clone or download the repository to your local 
 2. Navigate to the directory containing the script.
 3. Run the script using Python:
     ```bash
