@@ -1,6 +1,6 @@
 # Currency Converter
 
-This currenc converter is a simple Python script that allows users to convert an amount from one currency to another based on predefined exchange rates. 
+This currency converter is a simple Python script that allows users to convert an amount from one currency to another based on predefined exchange rates. 
 
 ## Usage
 
